@@ -2,8 +2,8 @@
  >**MONSOON 22** <br />
  
  
-**" CSD101 - Introduction to Computing and Programming "** is a course based on the basics C language in my 1<sup>st</sup> semester of ECE. <br />
-This folder contains all the solutions of Assignments given in the course.
+**" CSD101 - Introduction to Computing and Programming "** is a course based on the basics of C language in my 1<sup>st</sup> semester of ECE. <br />
+This folder contains all the solutions to Assignments given in the course.
 
 _You can ignore the comments in the above codes. They are only for some clarification and the symbols used there are based on some extensions I use in VS CODE._
 
@@ -13,6 +13,6 @@ _You can ignore the comments in the above codes. They are only for some clarific
 
 
 You can use this as a reference material. <br />
-Feel free to reach me out - <br />
+Feel free to reach out - <br />
 You can mail me out [here](mailto:mm153@snu.edu.in) or [text me](https://www.instagram.com/man.ju.nath/) here. <br />
 :)
